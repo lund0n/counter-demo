@@ -2,6 +2,10 @@
   "name": "counter-demo",
   "version": "1.0.0",
   "description": "counter-demo Description",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lund0n/counter-demo.git"
+  },
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
